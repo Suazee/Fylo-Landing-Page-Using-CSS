@@ -1,0 +1,349 @@
+body {
+  margin: 0;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+h4 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+/************************************ BODY 1 ***************************/
+.top-logo {
+  display: inline-block;
+  position: relative;
+  left: 50px;
+  top: 20px;
+}
+.body-header-links {
+  display: inline-block;
+}
+.body-header-links a{
+  display: inline-block;
+  padding-right: 50px;
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+  position: relative;
+  left: 900px;
+}
+.body-header {
+  padding: 30px 50px 0;
+}
+
+
+/************************************ BODY 1 ***************************/
+.body-1 {
+  padding: 100px;
+  width: auto;
+  height: 300px;
+}
+.illustration-1-img {
+  display: block;
+  width: 100%;
+  margin: 0;
+}
+.illustration-1 {
+  display: inline-block;
+  position: relative;
+  width: 500px;
+  height: 400px;
+  margin: 0;
+  left: 800px;
+  bottom: 300px;
+}
+.body-1-1 {
+  display: inline-block;
+  position: relative;
+}
+.body-1-1 h2 {
+  font-size: 30px;
+  width: 500px;
+}
+.body-1-1 p {
+  width: 400px;
+  line-height: 1.5;
+}
+
+.button-1 {
+  background-color:	#3065f8;
+  color: white;
+  padding: 15px 50px;
+  box-shadow: 1px 1px 3px black;
+  display: inline-block;
+  font-size: 10px;
+  margin-left: 10px;
+}
+.input-1 {
+  width: 300px;
+  padding: 15px;
+  padding-right: 10px;
+  display: inline-block;
+  margin: 20px auto;
+  box-shadow: 2px 2px 5px black;
+  font-size: 10px;
+}
+
+/************************************ BODY 2 COMMENT ***************************/
+.comment {
+  background-color: white;
+  color: black;
+  display: inline-block;
+  position: relative;
+  width: 210px;
+  height: 150px;
+  margin: 0 auto 20px;
+  line-height: 1.5;
+  padding: 20px;
+  right: 490px;
+}
+.comment h4 {
+  font-weight: 700;
+  margin: 0;
+  font-size: 10px;
+}
+.comment p {
+  font-size: 10px;
+  margin-bottom: 20px;
+}
+.avatar {
+  border-radius: 100%;
+  width: 30px;
+  height: 30px;
+  float: left;
+  margin-right: 10px;
+}
+.founder {
+  margin: 0;
+}
+
+
+
+/************************************ BODY 2 ***************************/
+.body-2 {
+  background-color: #f6f6fe;
+  position: relative;
+  margin: 0;
+  padding: 80px 80px 80px 100px;
+}
+.curve {
+  margin: 0;
+  position: relative;
+}
+.curve-img {
+  margin: 0;
+  position: relative;
+  display: block;
+  width: 100%;
+}
+.body-2-1 {
+  margin: 0;
+  display: inline-block;
+  position: relative;
+  bottom: 200px;
+}
+.body-2-1 a {
+  text-decoration: none;
+  color: #3c9f8f;
+  font-weight: lighter;
+  font-size: 17px;
+  padding-bottom: 5px;
+  border-bottom-style: solid;
+  border-bottom-color: #3c9f8f;
+  border-bottom-width: thin;
+}
+.body-2-1 h2 {
+  font-size: 30px;
+}
+.stay-productive-body {
+  width: 410px;
+  line-height: 1.5;
+}
+.illustration-2-img {
+  display: block;
+  width: 100%;
+  margin: 0;
+}
+.illustration-2 {
+  display: inline-block;
+  position: relative;
+  width: 500px;
+  height: 400px;
+  margin: 0;
+  left: 50px;
+  top: 30px;
+}
+.arrow-icon {
+  position: relative;
+  top: 4px;
+}
+/************************************ BODY 3 ***************************/
+
+.body-3-1 {
+  background-color: #585989;
+  color: white;
+  display: inline-block;
+  margin: 0 20px;
+  width: 420px;
+  line-height: 1.5;
+  margin-right: 400px;
+}
+.body-3-2 {
+  background-color: #585989;
+  color: white;
+  display: inline-block;
+  position: relative;
+  bottom: 20px;
+}
+.body-3 {
+  background-color: #585989;
+  position: relative;
+  padding: 80px;
+  margin: 0;
+}
+.button-2 {
+  background-color:	#3065f8;
+  color: white;
+  padding: 10px 30px;
+  box-shadow: 1px 1px 3px black;
+  font-size: 10px;
+}
+.input-2 {
+  width: 400px;
+  padding: 17px;
+  padding-right: 20px;
+  display: block;
+  margin: 20px auto;
+  box-shadow: 2px 2px 5px black;
+  font-size: 10px;
+}
+
+/************************************ BODY FOOTER ***************************/
+
+.footer {
+  background-color: #070439;
+  position: relative;
+  padding: 50px 50px 0;
+  margin: 0;
+}
+.footer a {
+  text-decoration: none;
+  color: white;
+  font-weight: lighter;
+  font-size: 15px;
+}
+.fylo-logo-bottom {
+  filter: invert();
+  margin: 20px auto;
+  padding: 0 50px;
+}
+.logo-footer {
+  display: block;
+}
+.phone-icon {
+  display: inline-block;
+}
+.phone {
+  display: inline-block;
+  position: relative;
+  bottom: 5px;
+  left: 10px;
+}
+.email-icon {
+  display: inline-block;
+  position: relative;
+  top: 50px;
+  right: 163px;
+}
+.email {
+  display: inline-block;
+  position: relative;
+  top: 45px;
+  right: 153px;
+}
+.footer-1 {
+  background-color: #070439;
+  color: white;
+  display: inline-block;
+  width: 300px;
+  position: relative;
+  bottom: 78px;
+  padding: 0 50px;
+  text-align: left;
+  height: 100px;
+}
+.footer-2 {
+  background-color: #070439;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  bottom: 10px;
+  left: 50px;
+}
+.footer-3 {
+  background-color: #070439;
+  display: inline-block;
+  width: 200px;
+  height: 150px;
+  position: relative;
+  bottom: 42px;
+  left: 50px;
+}
+
+.facebook {
+  border-style: solid;
+  border-width: 2px;
+  background-color: white;
+  border-radius: 100%;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  margin: 0;
+  margin-right: 20px
+}
+.twitter {
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 100%;
+  background-color: white;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  margin: 0;
+  margin-right: 20px
+}
+.instagram {
+  border-style: solid;
+  border-width: 2px;
+  background-color: white;
+  border-radius: 100%;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+}
+.footer-4 {
+  background-color: #070439;
+  display: inline-block;
+  width: 500px;
+  height: 100px;
+  position: relative;
+  bottom: 80px;
+  left: 50px;
+}
