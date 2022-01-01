@@ -2,6 +2,8 @@
 
 body {
   line-height: 1.7rem;
+  background-color: #070439;
+
 }
 
 p {
@@ -34,6 +36,10 @@ h1 {
   box-shadow: 1px 1px 10px black;
 }
 
+footer {
+  background-color: white;
+}
+
 /* NAVIGATION */
 #navigation {
   margin-bottom: 6.25rem;
@@ -48,6 +54,13 @@ h1 {
   margin-bottom: 6.25rem;
 }
 
+#title h1 {
+  color: white;
+}
+
+#title p {
+  color: white;
+}
 .illustration-1-img {
   width: 33rem;
   height: 25rem;
@@ -99,6 +112,12 @@ h1 {
   border-bottom: .1rem solid;
   border-color: #3c9f8f;
   color: #3c9f8f;
+}
+
+.green-arrow-link:hover {
+  background-color: #070439;
+  color: white;
+  border: none;
 }
 
 /* COMMENT */
