@@ -61,6 +61,16 @@ footer {
   margin-left: auto;
 }
 
+#navigation .nav-link {
+  width: 6rem;
+  text-align: center;
+}
+
+#navigation .nav-link:hover {
+  font-size: 20px;
+}
+
+
 /* TITLE */
 #title {
   margin-bottom: 6.25rem;
