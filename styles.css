@@ -119,9 +119,9 @@ footer {
 }
 
 .green-arrow-link:hover {
-  background-color: #070439;
-  color: white;
   border: none;
+  color: #3c9f8f;
+  font-size: 20px;
 }
 
 /* COMMENT */
