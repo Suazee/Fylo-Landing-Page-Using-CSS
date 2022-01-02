@@ -78,6 +78,7 @@ footer {
 #title {
   margin-bottom: 6.25rem;
   margin-top: 18.75rem;
+  width: 100%;
 }
 
 #title h1 {
@@ -106,6 +107,7 @@ footer {
 /* CURVE */
 #curve-section {
   margin-top: 12.50rem;
+  width: 100%;
 }
 
 .curve-img {
@@ -120,6 +122,7 @@ footer {
   background-color: #f6f6fe;
   padding-bottom: 6.25rem;
   padding-top: 6.25rem;
+  width: 100%;
 }
 
 
@@ -182,6 +185,7 @@ footer {
   background-color: #585989;
   padding-bottom: 6.25rem;
   padding-top: 6.25rem;
+  width: 100%;
 }
 
 .form-2 {
@@ -196,6 +200,7 @@ footer {
   color: white;
   padding-bottom: 6.25rem;
   padding-top: 6.25rem;
+  width: 100%;
 }
 
 #footer a {
